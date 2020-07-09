@@ -9,6 +9,8 @@ Copy and paste token into config.env file in accesstoken variable.
 
 ## How to use?
 * Modify config.env file with the correct foglight credentials: login, password, host, foglight accesstoken.
+* Install jq software. Execute 'yum install jq'. jq is a lightweight and flexible command-line JSON processor; Ñore info [here](https://stedolan.github.io/jq/).
+.
 * Execuete api_foglight.sh
 
 
