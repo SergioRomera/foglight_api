@@ -14,6 +14,8 @@ Copy and paste token into config.env file in accesstoken variable.
 
 
 #Screenshots
+## Instances
 ![](image/instances.png)
 
+## Alarms
 ![](image/alarms.png)
