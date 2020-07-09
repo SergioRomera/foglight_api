@@ -13,7 +13,8 @@ Copy and paste token into config.env file in accesstoken variable.
 * Execuete api_foglight.sh
 
 
-#Screenshots
+# Screenshots
+
 ## Instances
 ![](image/instances.png)
 
